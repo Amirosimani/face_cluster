@@ -1,0 +1,4 @@
+cmake
+face_recognition
+cv2
+
